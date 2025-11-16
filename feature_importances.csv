@@ -1,0 +1,155 @@
+,importance
+hour_of_day,0.2020843405468985
+day_of_week,0.09289319690346949
+temp,0.08847655590224078
+humidity,0.08110751358068563
+wind_speed,0.07594644254130441
+pressure,0.052946913906146136
+airline_name_Turkish Airlines,0.022940435419937667
+airline_name_IndiGo,0.016007281720316673
+airline_name_Air Serbia,0.015947662965657347
+airline_name_ANA,0.01590896492874951
+weather_Unknown,0.015237644185595528
+weather_Clouds,0.014188031619085134
+airline_name_Pegasus,0.011688965713588177
+airline_name_Thai Airways International,0.011074152838219782
+airline_name_Singapore Airlines,0.010875726330572707
+airline_name_Pakistan International Airlines,0.010735716927651186
+airline_name_Aeroflot,0.01049027095634323
+weather_Clear,0.00986300429187742
+airline_name_TAP Air Portugal,0.008964712964706023
+airline_name_Qanot Sharq,0.007971855835413317
+airline_name_Royal Air Maroc,0.007356146765125161
+airline_name_Saudia,0.007174343390807883
+airline_name_LOT - Polish Airlines,0.006779969172989845
+airline_name_Royal Jordanian,0.006502211273801105
+airline_name_EgyptAir,0.006415615247748952
+airline_name_Sichuan Airlines,0.006295460817443195
+airline_name_EVA Air,0.005896322134015642
+airline_name_ULS Airlines Cargo,0.0058922138968549075
+airline_name_Asiana Airlines,0.005708944776889243
+airline_name_Air Canada,0.005542519418165685
+airline_name_Berniq Airways,0.005146275819877618
+airline_name_Uzbekistan Airways,0.005099661649170569
+airline_name_AZAL Azerbaijan Airlines,0.005011172800355039
+airline_name_Miat - Mongolian Airlines,0.004921052013635988
+airline_name_China Southern Airlines,0.00468842948306186
+airline_name_RwandAir,0.004570979271646544
+airline_name_Middle East Airlines,0.004149591253182039
+airline_name_Gulf Air,0.0038270106755309706
+airline_name_Malaysia Airlines,0.00366020128518059
+airline_name_TAROM,0.003518562320512078
+airline_name_Transavia France,0.0033416703075297076
+airline_name_Icelandair,0.003324814227584018
+airline_name_Finnair,0.0033044156879742962
+airline_name_Aegean Airlines,0.003300503079731087
+airline_name_Emirates,0.0029893454179644617
+airline_name_MNG Airlines,0.002979706290794761
+airline_name_Chrono Aviation,0.002962789039969357
+airline_name_SmartLynx Airlines,0.002928305829336663
+airline_name_Buraq Air,0.0027920006089875737
+airline_name_Transavia,0.002745041331236885
+airline_name_JetBlue Airways,0.0023790799276563338
+airline_name_LATAM Airlines,0.002306783994142314
+airline_name_flydubai,0.0021795082268340773
+airline_name_Air China LTD,0.0021181293397925243
+airline_name_Malindo Air,0.0020387018917624794
+airline_name_SA AVIANCA,0.002021216941088507
+airline_name_Air Algerie,0.001954294701003143
+airline_name_British Airways,0.0019299509034992667
+airline_name_Royal Brunei Airlines,0.00186371084743053
+airline_name_SAS,0.0018482285090759684
+airline_name_Libyan Wings,0.0018066234129501665
+airline_name_United Airlines,0.0017600964102708983
+airline_name_Air Astana,0.0016084556989032317
+airline_name_Ariana Afghan Airlines,0.0015903001768482676
+airline_name_Garuda Indonesia,0.0015562079240584472
+airline_name_Iraqi Airways,0.0015159710111851267
+airline_name_VistaJet,0.0014916976699712388
+airline_name_Azimuth,0.0014914633909271547
+airline_name_Ethiopian Airlines,0.0014768069376121414
+airline_name_Ural Airlines,0.0014730578765185084
+airline_name_Oman Air,0.0013453850904897602
+airline_name_Turkmenistan Airlines,0.0013332796967853364
+airline_name_KLM,0.0013080323329629398
+airline_name_Vietnam Airlines,0.0012484707024544585
+airline_name_Air Seychelles,0.0012445963355853012
+airline_name_Air Baltic,0.0012311268427459227
+airline_name_Etihad Airways,0.0012239795908966186
+airline_name_Flyadeal,0.0011584260512240393
+airline_name_Qatar Airways,0.0011071268526574739
+airline_name_Tunisair,0.0010875540627958208
+airline_name_Delta Air Lines,0.0010798389266591204
+airline_name_Rossiya Airlines,0.0010621437392301686
+airline_name_Croatia Airlines,0.0010578042526561882
+airline_name_Fly2Sky,0.0010574875571530394
+airline_name_BBN Airlines,0.001045573429194564
+airline_name_Air Malta,0.0010128110189733326
+airline_name_Air New Zealand,0.0009722171934257011
+airline_name_Fly One,0.000956011357922603
+airline_name_American Airlines,0.00095554130190988
+airline_name_Sepehran Airlines,0.0009519353510016659
+airline_name_Biman Bangladesh Airlines,0.0009300887079430679
+airline_name_Iran Airtour,0.0009191606907231316
+airline_name_Chrono Jet,0.000913574390302379
+airline_name_Lufthansa,0.0008270195951209614
+airline_name_Copa Airlines,0.0008269325458340997
+airline_name_Medsky Airways,0.0008234628410179577
+airline_name_Philippine Airlines,0.0008175152229066698
+airline_name_Somon Air,0.0008001048195016752
+airline_name_Wizz Air,0.0007698917828321307
+airline_name_Sky Express,0.0007197940427518024
+airline_name_Air Arabia,0.0006908399958388205
+airline_name_Air Europa,0.0006861354747455465
+weather_Rain,0.0006803586127400144
+airline_name_Wizz Air UK,0.0006726262406612657
+airline_name_Taquan Air,0.0006679811785273844
+airline_name_Fly Baghdad,0.0006563578730447149
+airline_name_Air Albania,0.0006208870490715308
+airline_name_empty,0.000609122325212369
+airline_name_Nouvelair Tunisie,0.0006089182069354845
+airline_name_Kuwait Airways,0.0006067948678495818
+airline_name_Japan Airlines,0.0005905697768823693
+airline_name_SalamAir,0.000564135528185022
+airline_name_Alitalia,0.0005556572483477333
+airline_name_Air Bohemia,0.0005464367451851111
+airline_name_flynas,0.000513792379306223
+airline_name_Air France,0.0005118065420289345
+airline_name_China Eastern Airlines,0.0005093624903225258
+airline_name_Pobeda,0.00048199883433732533
+airline_name_RusJet,0.00044840195287385314
+airline_name_Gol,0.0004262035581323771
+airline_name_S7 Airlines,0.0004174030643596689
+airline_name_SkyUp Airlines,0.00040669965004375163
+airline_name_Hong Kong Airlines,0.00039177304632402414
+airline_name_My Freighter,0.00039155093546795587
+airline_name_Aerosucre,0.00037848806964691585
+airline_name_Ascend Airways,0.0003544584001880905
+airline_name_ATA Airlines,0.0003360417349721558
+airline_name_Silk Way West,0.0003346388350306567
+airline_name_easyJet,0.0003264752030296624
+airline_name_Crown Airlines,0.0003243987152615981
+airline_name_Iran Air,0.00030520911570427957
+airline_name_Atlas Air,0.0002736045023524832
+airline_name_Kenya Airways,0.00025772404931225564
+airline_name_Vueling,0.0002499273086507001
+airline_name_JoinJet,0.0002259747884734923
+airline_name_Gazpromavia,0.00021975360523066183
+airline_name_SriLankan Airlines,0.00021765583433204917
+airline_name_Hong Kong Air Cargo,0.0002165939698864278
+airline_name_UR Airlines,0.00018018324627920888
+airline_name_Mahan Air,0.0001596567479096644
+airline_name_Qantas,0.00014970831563817784
+airline_name_UTair Aviation,0.00014409082767543303
+airline_name_Panaviatic,0.000132490426240937
+airline_name_Luxair,0.0001130330538653955
+airline_name_FlexFlight,0.00010090408319819514
+airline_name_Air Montenegro,9.286170197469681e-05
+airline_name_Iberia,8.992755081327774e-05
+airline_name_Red Wings,6.944272182125487e-05
+airline_name_Fly OYA,6.310075012378243e-05
+airline_name_Belavia,5.6005383214462885e-05
+avg_speed,0.0
+is_weekend,0.0
+total_vehicles,0.0
+airline_name_Dexter Air Taxi,0.0
